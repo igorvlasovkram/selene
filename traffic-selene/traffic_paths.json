@@ -1,62 +1,62 @@
 [
   {
-    "path": "/yashaka/selene",
-    "title": "yashaka/selene: User-oriented Web UI browser tests in Python",
-    "count": 437,
-    "uniques": 193
+    "path": "/igorvlasovkram/selene",
+    "title": "igorvlasovkram/selene: User-oriented Web UI browser tests in Python",
+    "count": 20,
+    "uniques": 1
   },
   {
-    "path": "/yashaka/selene/issues",
-    "title": "Issues · yashaka/selene · GitHub",
-    "count": 156,
-    "uniques": 24
+    "path": "/igorvlasovkram/selene/tree/IgVlKr_branch",
+    "title": "igorvlasovkram/selene at IgVlKr_branch",
+    "count": 11,
+    "uniques": 2
   },
   {
-    "path": "/yashaka/selene/pulls",
-    "title": "Pull requests · yashaka/selene · GitHub",
-    "count": 134,
-    "uniques": 12
+    "path": "/igorvlasovkram/selene/commits/IgVlKr_branch",
+    "title": "Commits · igorvlasovkram/selene",
+    "count": 10,
+    "uniques": 2
   },
   {
-    "path": "/yashaka/selene/tree/master/selene",
-    "title": "selene/selene at master · yashaka/selene · GitHub",
-    "count": 50,
-    "uniques": 17
+    "path": "/igorvlasovkram/selene/tree/IgVlKr_branch_1",
+    "title": "igorvlasovkram/selene at IgVlKr_branch_1",
+    "count": 8,
+    "uniques": 2
   },
   {
-    "path": "/yashaka/selene/issues/313",
-    "title": "improve tests structure (visibility and clearness of arrange/act/assert block...",
-    "count": 48,
-    "uniques": 9
+    "path": "/igorvlasovkram/selene/tree/IgVlKr_1",
+    "title": "igorvlasovkram/selene at IgVlKr_1",
+    "count": 8,
+    "uniques": 1
   },
   {
-    "path": "/yashaka/selene/pull/317",
-    "title": "issue #312 refactor timeouts in givenpage.py by Vikilib · Pull Request #317 ·...",
-    "count": 47,
-    "uniques": 7
+    "path": "/igorvlasovkram/selene/commits/master",
+    "title": "Commits · igorvlasovkram/selene",
+    "count": 7,
+    "uniques": 1
   },
   {
-    "path": "/yashaka/selene/issues/128",
-    "title": "alert = driver().switch_to.alert alert.accept() throws NoAlertPresentExceptio...",
-    "count": 28,
-    "uniques": 27
+    "path": "/igorvlasovkram/selene/tree/master",
+    "title": "igorvlasovkram/selene: User-oriented Web UI browser tests in Python",
+    "count": 6,
+    "uniques": 1
   },
   {
-    "path": "/yashaka/selene/tree/master/tests",
-    "title": "selene/tests at master · yashaka/selene",
-    "count": 28,
-    "uniques": 11
+    "path": "/igorvlasovkram/selene/actions/runs/808554759/workflow",
+    "title": "Merge pull request #336 from aleksandr-kotlyar/wdm-up · igorvlasovkram/selene...",
+    "count": 5,
+    "uniques": 1
   },
   {
-    "path": "/yashaka/selene/tree/master/selene/support",
-    "title": "selene/selene/support at master · yashaka/selene · GitHub",
-    "count": 23,
-    "uniques": 8
+    "path": "/igorvlasovkram/selene/branches",
+    "title": "Branches · igorvlasovkram/selene",
+    "count": 4,
+    "uniques": 2
   },
   {
-    "path": "/yashaka/selene/pull/318",
-    "title": "update webdriver-manager to latest version #299 by EmadDeve20 · Pull Request ...",
-    "count": 23,
-    "uniques": 5
+    "path": "/igorvlasovkram/selene/actions/runs/808554759",
+    "title": "Merge pull request #336 from aleksandr-kotlyar/wdm-up · igorvlasovkram/selene...",
+    "count": 4,
+    "uniques": 1
   }
 ]
