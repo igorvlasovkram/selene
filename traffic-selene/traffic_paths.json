@@ -2,7 +2,7 @@
   {
     "path": "/igorvlasovkram/selene",
     "title": "igorvlasovkram/selene: User-oriented Web UI browser tests in Python",
-    "count": 11,
+    "count": 10,
     "uniques": 1
   },
   {
@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/igorvlasovkram/selene/tree/IgVlKr_1",
-    "title": "igorvlasovkram/selene at IgVlKr_1",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/igorvlasovkram/selene/actions/runs/808554759",
     "title": "Merge pull request #336 from aleksandr-kotlyar/wdm-up · igorvlasovkram/selene...",
     "count": 4,
@@ -32,6 +26,12 @@
   {
     "path": "/igorvlasovkram/selene/edit/master/.github/workflows/traffic2badge.yml",
     "title": "Editing selene/traffic2badge.yml at master · igorvlasovkram/selene",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/igorvlasovkram/selene/tree/IgVlKr_1",
+    "title": "igorvlasovkram/selene at IgVlKr_1",
     "count": 4,
     "uniques": 1
   },
