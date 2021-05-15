@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/igorvlasovkram/selene/commit/e7f45338cb41575ddba4fecc326bb33da48e44f2",
+    "title": "#328: improving tests structure · igorvlasovkram/selene@e7f4533",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "path": "/igorvlasovkram/selene/actions/runs/808554759",
     "title": "Merge pull request #336 from aleksandr-kotlyar/wdm-up · igorvlasovkram/selene...",
     "count": 4,
@@ -27,12 +33,6 @@
     "path": "/igorvlasovkram/selene/edit/master/.github/workflows/traffic2badge.yml",
     "title": "Editing selene/traffic2badge.yml at master · igorvlasovkram/selene",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/igorvlasovkram/selene/commit/e7f45338cb41575ddba4fecc326bb33da48e44f2",
-    "title": "#328: improving tests structure · igorvlasovkram/selene@e7f4533",
-    "count": 3,
     "uniques": 1
   },
   {
