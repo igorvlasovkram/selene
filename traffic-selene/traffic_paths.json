@@ -1,62 +1,14 @@
 [
   {
-    "path": "/igorvlasovkram/selene",
-    "title": "igorvlasovkram/selene: User-oriented Web UI browser tests in Python",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/igorvlasovkram/selene/commits/master",
-    "title": "Commits · igorvlasovkram/selene",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/igorvlasovkram/selene/actions/runs/808554759/workflow",
-    "title": "Merge pull request #336 from aleksandr-kotlyar/wdm-up · igorvlasovkram/selene...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/igorvlasovkram/selene/commit/e7f45338cb41575ddba4fecc326bb33da48e44f2",
     "title": "#328: improving tests structure · igorvlasovkram/selene@e7f4533",
     "count": 5,
     "uniques": 1
   },
   {
-    "path": "/igorvlasovkram/selene/actions/runs/808554759",
-    "title": "Merge pull request #336 from aleksandr-kotlyar/wdm-up · igorvlasovkram/selene...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/igorvlasovkram/selene/edit/master/.github/workflows/traffic2badge.yml",
-    "title": "Editing selene/traffic2badge.yml at master · igorvlasovkram/selene",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/igorvlasovkram/selene/actions",
-    "title": "Actions · igorvlasovkram/selene",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/igorvlasovkram/selene/actions/workflows/traffic2badge.yml",
-    "title": "Actions · igorvlasovkram/selene",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/igorvlasovkram/selene/blob/master/.github/workflows/traffic2badge.yml",
-    "title": "selene/traffic2badge.yml at master · igorvlasovkram/selene",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/igorvlasovkram/selene/commit/0682be57354c0aff3fdab049ea2cc4c49afe046e",
-    "title": "Update traffic2badge.yml · igorvlasovkram/selene@0682be5",
-    "count": 2,
+    "path": "/igorvlasovkram/selene",
+    "title": "igorvlasovkram/selene: User-oriented Web UI browser tests in Python",
+    "count": 1,
     "uniques": 1
   }
 ]
